@@ -1,0 +1,7 @@
+@D2_ETL.Client.ManifestApi_HostAddress = https://www.bungie.net/Platform/Destiny2/Manifest/
+
+GET {{D2_ETL.Client.ManifestApi_HostAddress}}
+Accept: application/json
+X-Api-Key: cec16aab4aba4561a504c671c7161670
+
+###
